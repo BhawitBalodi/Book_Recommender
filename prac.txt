@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+</head>
+<body>
+<h1>You can contact here:</h1><br>
+<h2>Name: Bhawit Balodi</h2><br>
+<h2>Email Id: Bhawitbalodi@gmail.com</h2><br>
+<h2>Linkdin: Bhawit Balodi</h2><br>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+return ('''You can contact here -->
+    Name: Bhawit Balodi -->   Email Id: Bhawitbalodi@gmail.com --> Linkdin: Bhawit Balodi''')
